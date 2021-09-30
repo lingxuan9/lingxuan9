@@ -3,7 +3,7 @@
 - 👀 I’m interested in smart mobility, data science and information technology
 - 🌱 I’m currently learning a amont of data science knowledge in a bootcamp
 - 📫 How to reach me:
-My Linkedin:https://www.linkedin.com/feed/
+My Linkedin:https://www.linkedin.com/in/lingxuan-zhang-623360186/
 
 <!---
 lingxuan9/lingxuan9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
