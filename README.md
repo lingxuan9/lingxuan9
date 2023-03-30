@@ -1,4 +1,4 @@
-                                                 [ 👋 Hi, I’m @Lingxuan 张凌煊]
+                                               [ 👋 Hi, I’m @Lingxuan 张凌煊]
                                                 
                                                 
 - 🎓 I'm a PhD majoring in Transportation Planning & Management, my research focuses on Network Modeling, Simulation and Optimization
