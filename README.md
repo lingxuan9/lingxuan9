@@ -2,7 +2,7 @@
                                                 
                                                 
 - 🎓 I'm a PhD majoring in Transportation Planning & Management, my research focuses on Network Modeling, Simulation and Optimization
-- 👀 I’m interested in Urban Planning, Smart Mobility and Data Science
+- 👀 I’m interested in Urban Planning, Smart Mobility, Data Science and AI
 - 🌱 I’m currently working as a Data Scientist at Saporo
 - 📫 How to reach me: lingxuanzhang9@gmail.com
 - 📱 More about me: https://www.linkedin.com/in/lingxuan-zhang/
